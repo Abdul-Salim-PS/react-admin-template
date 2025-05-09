@@ -124,20 +124,6 @@ yarn build
 
 This will create a `build` directory with the production-ready files. You can then host these files on any static file server or cloud service.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [ileaf-ui](https://github.com/yourusername/ileaf-ui) for the component library.
-- [React](https://reactjs.org/) for the framework.
-- [Tailwind CSS](https://tailwindcss.com/) for styling.
-
 ## Conclusion
 
 This **Template App** provides a solid foundation for building admin panels with React. You can easily customize it to fit your needs and extend it with additional features. Happy coding!
